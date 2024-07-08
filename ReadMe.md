@@ -14,9 +14,9 @@ you can download the model from the below link
 This Repository contains the code for the backend of the image segmentation model.
 To run the complete application You will have to clone the frontend repository and backend app Repository from the below link
 
-[Frontend Repository](  hthht)
+[Frontend Repository](https://github.com/Nawaz393/SpineImageSegmantaionUI.git)
 
-[Backend Repository](jjfjf)
+[Backend Repository](https://github.com/Nawaz393/ImageSegmantationWebBackend.git)
 
 *Please download the model and change the path in the  `helpers.py` load model method.*
 
