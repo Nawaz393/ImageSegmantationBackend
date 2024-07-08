@@ -4,6 +4,22 @@
 
 This project is a backend implementation for image segmentation Model using Flask. It provides an API endpoint to perform image segmentation on user-provided images.
 
+
+## Model Download Link
+you can download the model from the below link
+[Model Download Link](https://drive.google.com/file/d/1HTo4d28g0rzQwXVv-ecK2_87mdi4zPVw/view?usp=sharing)
+
+
+## Note 
+This Repository contains the code for the backend of the image segmentation model.
+To run the complete application You will have to clone the frontend repository and backend app Repository from the below link
+[Frontend Repository](  hthht)
+[Backend Repository](jjfjf)
+
+*Please download the model and change the path in the  `helpers.py` load model method.*
+
+
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Nawaz393/ImageSegmantationBackend.git`
@@ -26,7 +42,7 @@ The project directory structure contains the following components:
 
 - `ImagePipline`: This directory contains the preprocessing for 2d images and 3d Images Reconstruction and Predicting scripts for image segmentation.
 
-- `app.py`: This is the main Flask application file that handles the API endpoints and image segmentation process.
+- `app.py`: This is the main Flask application file that handles the API endpoints and image   segmentation process.
 
 - `requirements.txt`: This file lists all the required dependencies for the project.
 
@@ -67,4 +83,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
