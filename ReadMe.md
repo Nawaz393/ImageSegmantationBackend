@@ -13,7 +13,9 @@ you can download the model from the below link
 ## Note 
 This Repository contains the code for the backend of the image segmentation model.
 To run the complete application You will have to clone the frontend repository and backend app Repository from the below link
+
 [Frontend Repository](  hthht)
+
 [Backend Repository](jjfjf)
 
 *Please download the model and change the path in the  `helpers.py` load model method.*
